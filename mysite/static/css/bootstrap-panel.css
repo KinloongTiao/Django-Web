@@ -1,0 +1,42 @@
+@import url('//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css');
+.panel-custom-horrible-green {
+    border-color: #4B7665;
+}
+.panel-custom-horrible-green > .panel-heading {
+    background: #4B7665;
+    color: #ffffff;
+    border-color: #4B7665;
+}
+
+
+.panel-custom-horrible-blue {
+    border-radius: 0px;
+    border-color: #223C57;
+}
+.panel-custom-horrible-blue > .panel-heading {
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    background: #2aa6ac;
+    color: #ffffff;
+    border-color: #223C57;
+}
+
+.panel-custom-soft-blue {
+    border-color: #426A61;
+}
+.panel-custom-soft-blue > .panel-heading {
+    background: #426A61;
+    color: #ffffff;
+    border-color: #426A61;
+}
+
+.panel-custom-soft-blue-ra {
+    border-color: #223C57;
+}
+.panel-custom-soft-blue-ra > .panel-heading {
+    background: #223C57;
+    color: #ffffff;
+    border-color: #223C57;
+}
+
+
